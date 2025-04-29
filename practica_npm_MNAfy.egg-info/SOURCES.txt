@@ -1,0 +1,7 @@
+README.md
+setup.py
+practica-npm-MNAfy/__init__.py
+practica_npm_MNAfy.egg-info/PKG-INFO
+practica_npm_MNAfy.egg-info/SOURCES.txt
+practica_npm_MNAfy.egg-info/dependency_links.txt
+practica_npm_MNAfy.egg-info/top_level.txt
