@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="practica-npm-MNAfy",                           # Nombre del paquete
-    version="0.1.1",                                # Versión inicial
+    version="0.0.1",                                # Versión inicial
     packages=find_packages(),                       # Paquetes a incluir
     description="Un paquete pip simple de saludo",  # Breve descripción
     author="Jhonfypymna",                         # Tu nombre
